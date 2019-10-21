@@ -6,7 +6,7 @@ Latihan 2
 (Akhiran)
 # ![Alt Text](https://github.com/Tio304/PBO_BUS/blob/master/Isi_PBO_2_1.PNG)
 (Output)
-# ![Alt Text]()
+# ![Alt Text](https://github.com/Tio304/PBO_BUS/blob/master/Hasil%20PBO%202.PNG)
 Penjelasan
 dalam point B di jalankan sistem yang menjelaskan dan memeberikan penjelasan tentang 
 jumlah/qty penumpang dalam bus dan memberikan peringatan jika sudah melebihi kapasitas
@@ -17,7 +17,7 @@ Latihan 1
 (Akhiran)
 # ![Alt Text](https://github.com/Tio304/PBO_BUS/blob/master/Isi%20Pbo_2_2.PNG)
 (output)
-# ![Alt Text]()
+# ![Alt Text](https://github.com/Tio304/PBO_BUS/blob/master/Hasil%20PBO%201.PNG)
 
 
 Latihan 4
@@ -26,7 +26,10 @@ Latihan 4
 (Akhiran)
 # ![Alt Text](https://github.com/Tio304/PBO_BUS/blob/master/isi%20uji%20bus%203.PNG)
 (output)
-# ![Alt Text]()
+# ![Alt Text](https://github.com/Tio304/PBO_BUS/blob/master/Hasil%20Pbo%204.PNG)
+Penjelasan 
+DalamProgram Tersebut Di Jabarkan JIka bus ditambha dan di kiurangi penumpangnya yang berefek pada
+JUmlah penumpang di bus jika kurang bisa di tambah jika maks akan ada peringatan tentang bus yang penuh sesuai ketentuan
 
 Latihan 3
 (Awalan)
@@ -34,7 +37,7 @@ Latihan 3
 (Akhiran)
 # ![Alt Text](https://github.com/Tio304/PBO_BUS/blob/master/Isis%20encap.PNG)
 (Output)
-# ![Alt Text]()
+# ![Alt Text](https://github.com/Tio304/PBO_BUS/blob/master/Hasil%20PBO%203.PNG)
 
 Praktikum Bus
 (Awalan)
@@ -42,7 +45,7 @@ Praktikum Bus
 (Akhiran)
 # ![Alt Text](https://github.com/Tio304/PBO_BUS/blob/master/Hasil%20Awalan%20PbO%20Praktikum%201.)
 (Output)
-# ![Alt Text]()
+# ![Alt Text](https://github.com/Tio304/PBO_BUS/blob/master/Hasil%20Awalan%20PbO%20Praktikum%201.PNG)
 
 
 Praktikum Bola 
@@ -51,5 +54,8 @@ Praktikum Bola
 (Akhiran)
 # ![Alt Text](https://github.com/Tio304/PBO_BUS/blob/master/Isi_bola.PNG)
 (Output)
-# ![Alt Text]()
+# ![Alt Text](https://github.com/Tio304/PBO_BUS/blob/master/HAsil%20BOla.PNG)
 
+Kesimpulan
+Jadi Enkapitulasi Adalah Tentang Cara Menyembunyikan Jalanya Program tersebut 
+dan prosedur yang di lakukan adalah PPP(Protected,Private,Public)
